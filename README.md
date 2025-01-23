@@ -1,4 +1,4 @@
-<h2>Criando exceções personalizadas<\h2>
+<h2>Criando exceções personalizadas
 <p>Veremos um exemplo de uma atividade com três métodos de execução</p>
 <br>
 Solução (1) - Muito ruim
